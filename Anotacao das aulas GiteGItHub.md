@@ -38,3 +38,16 @@
 4. Para mandar para o repositório do github:
 
 **git push origin main**
+
+5. Para iniciar  um repositório:
+
+**git init**
+
+6. Para fazer um link entre o repositório local com o remoto:
+
+**git remote add origin urldorepositórionogithub**
+
+7. Para ver os repositórios likados:
+
+** git remote -v **
+
